@@ -1,0 +1,72 @@
+Features of react?
+React is faster because of virtual dom. 1 way data binding. Jsx we can write html in react.
+
+
+Why is 1 way data binding?
+Data flows in 1 direction.
+
+What is use of babel?
+Babel converts to jsx to js object.
+
+Difference between virtual dom and real dom?
+Suppose line of code is changed , processing is done on particular line.
+It will process the whole code in real dom. Virtual  dom is faster
+
+React is framework or library
+Library
+
+What is use of Es6?
+Features let, const, promises, callback,destructuring.
+
+Different part of component in react.js?
+Functional, class and higher order components
+
+Which one is better ? Which is useful?
+After hooks functional components as they are easier to test. Compare to class less line of code is written. Performance wise it will impact. 
+
+Do you have experience with NodeJs?
+Right now no. Learning
+
+What is useState?
+Used for tracking states. 
+
+What is difference between controlled and uncontrolled component?
+Controlled component - the input field is handled by react
+Uncontrolled component - input field is handled by DOM.
+
+What is prop drilling?
+Props are passed from a is connected to b, b is connected c. We have to pass from a to b and b to c.
+
+Can we create custom hooks?
+Yes it is possible. I haven’t done much but it is possible.
+
+Do you know react.strictmode ? Use?
+It is used for showing problems in a application.
+
+How to pass the data between components?
+With props
+With callback
+With context api
+With redux
+
+Which one is better?
+Redux
+
+Redux is cache server? Yes
+It is 3rd party right ? Yes
+
+Have you worked with react router? How route works in react?
+
+For browser.Homepage, contact with route path we can do it.
+
+Have you worked with database side or front end side?
+
+Mysql? What is left join?
+Returns record from left side and common records from both the tables.
+
+Upload application on server?
+
+In few projects, main project manager there is some gap. We can directly communicate.
+
+Important question. Are you interested in learning nodeJS. 
+Learn node and become full stack developer.
